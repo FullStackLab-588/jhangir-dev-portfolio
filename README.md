@@ -4,6 +4,7 @@
 
 🔗 **Live Website:**  
 https://jhangirmughal.netlify.app/
+
 https://jhangirmughal.me/
 
 ---
